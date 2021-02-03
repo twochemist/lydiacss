@@ -1,16 +1,11 @@
 # Landing LR ZI 
 
-> Check it out [here](https://lydiarodriguez.netlify.app)
+> Check it out [here](https://lydiazumba.netlify.app)
 
-### Light-House Report ⚡️
-
-### Technologies + Tools used 
+### Technologies
 
 - [HTML]
 - [SASS]
-
-
-![Built With SASS]()
 
 ### Build Setup
 
